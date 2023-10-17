@@ -1,0 +1,197 @@
+ID,TIME,NAME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT
+0,[2019-06-13 14:04:07], <Diana>, hy,bully_support,NAG,NULL,NULL,OTH,NULL
+1,[2019-06-13 14:05:54], <Diana>, 👋,bully_support,NAG,NULL,NULL,OTH,NULL
+2,[2019-06-13 14:06:23], <Silvia_Victime>, Salut,victim,NAG,NULL,NULL,OTH,NULL
+3,[2019-06-13 14:11:30], <Adrien_harceleur>, salut ,bully,NAG,NULL,NULL,OTH,NULL
+4,[2019-06-13 14:11:46], <Silvia_Victime>," Salut Adri,  ça va?",victim,NAG,NULL,NULL,OTH,OTH
+5,[2019-06-13 14:11:50], <Amos>, ok on est avec toi Adrien,bully_support,NAG,NULL,NULL,OTH,NULL
+6,[2019-06-13 14:12:03], <Silvia_Victime>, pq vous dites ça?,victim,NAG,NULL,NULL,OTH,OTH
+7,[2019-06-13 14:12:16], <Adrien_harceleur>, déja toi sylvia me parle pas,bully,OAG,victim,OTH,ATK,NULL
+8,[2019-06-13 14:12:23], <Silvia_Victime>, pq tu dis ça?,victim,NAG,NULL,NULL,OTH,ATK
+9,[2019-06-13 14:12:47], <Adrien_harceleur>, t as vu ce que t as fait a la soiré sale pute,bully,OAG,victim,NCG,ATK,OTH
+10,[2019-06-13 14:12:57], <Silvia_Victime>, euh quelle soirée?,victim,NAG,NULL,NULL,OTH,ATK
+11,[2019-06-13 14:13:02], <Silvia_Victime>, et pq tu me traites de pute?,victim,NAG,NULL,NULL,OTH,ATK
+12,[2019-06-13 14:13:04], <Diana>, c'est clair tu abuses !,bully_support,NAG,NULL,NULL,AIN,ATK
+13,[2019-06-13 14:13:10], <Herbert_concil>, calme toi adri,conciliator,NAG,NULL,NULL,CR,ATK
+14,[2019-06-13 14:13:10], <Silvia_Victime>, t'as un problème ?,victim,NAG,NULL,NULL,OTH,ATK
+15,[2019-06-13 14:13:18], <Adrien_harceleur>, oui c toi,bully,CAG,victim,OTH,ATK,OTH
+16,[2019-06-13 14:13:30], <Silvia_Victime>, et toi Diana avec ta gueule de macaque de quoi tu parles?,victim,OAG,bully_support,DNG,DFN,AIN
+17,[2019-06-13 14:13:55], <Adrien_harceleur>, commence pas a parler d elle comme ca,bully,NAG,NULL,NULL,OTH,DFN
+18,[2019-06-13 14:14:03], <Soan_SoutienV>, C pas de sa faute c Lucas,victim_support,NAG,NULL,NULL,OTH,NULL
+19,[2019-06-13 14:14:08], <Silvia_Victime>, c'est quoi ton fucking pblm,victim,OAG,bully,OTH,DFN,NULL
+20,[2019-06-13 14:14:10], <Amos_soutienAdri>, Tu t'es jamais vu au miroir? avant de parler,bully_support,CAG,victim,NCG,ATK,DFN
+21,[2019-06-13 14:14:13], <Silvia_Victime>, merci Soan,victim,NAG,NULL,NULL,OTH,OTH
+22,[2019-06-13 14:14:23], <Silvia_Victime>, *dans le miroir,victim,CAG,bully_support,DNG,DFN,ATK
+23,[2019-06-13 14:14:29], <Silvia_Victime>, achète un bescherelle,victim,CAG,bully_support,DNG,DFN,ATK
+24,[2019-06-13 14:14:37], <Herbert_concil>,  Les gars faut pas en faire toute une histoire calmez vous,conciliator,NAG,NULL,NULL,CR,NULL
+25,[2019-06-13 14:14:45], <Silvia_Victime>, de quoi on parle merde?,victim,NAG,NULL,NULL,OTH,NULL
+26,[2019-06-13 14:14:56], <Amos_soutienAdri>, je suis espagnol pardon de ne pas tout savoir connasse ,bully_support,OAG,victim,NCG,ATK,DFN
+27,[2019-06-13 14:15:11], <Silvia_Victime>, de où je suis une connasse?,victim,NAG,NULL,NULL,OTH,ATK
+28,[2019-06-13 14:15:18], <Diana>, tu as embrasser Lucas alors que sophia est ta pote ! ,bully_support,CAG,victim,BLM,AIN,OTH
+29,[2019-06-13 14:15:27], <Diana>, tu as foutu la merde dans leurs couple ,bully_support,CAG,victim,BLM,AIN,OTH
+30,[2019-06-13 14:15:31], <Diana>, c'est dégeulasse,bully_support,NAG,NULL,NULL,AIN,OTH
+31,[2019-06-13 14:15:32], <Amos_soutienAdri>, bravo. je te complimente,bully_support,CAG,victim,DNG,AIN,OTH
+32,[2019-06-13 14:15:37], <Silvia_Victime>, c'est Lucas qui a mis sa langue dans ma bouche donc déjà tu redescends,victim,NAG,NULL,NULL,DFN,AIN
+33,[2019-06-13 14:15:53], <Adrien_harceleur>, sylvia t vraiment la pire des grosses salope tu savait qu il été en couple est tu la embrassé ta aucun *e race ,bully,OAG,victim,DNG,ATK,DFN
+34,[2019-06-13 14:15:58], <Amos_soutienAdri>, en plus tu dis que c'est sa faute,bully_support,NAG,NULL,NULL,AIN,ATK
+35,[2019-06-13 14:15:59], <Silvia_Victime>, j'y peux rien si elle est pas foutue de tenir son mec,victim,NAG,NULL,NULL,DFN,AIN
+36,[2019-06-13 14:16:04], <Adrien_harceleur>, vas crevé en enfer ,bully,OAG,victim,OTH,ATK,DFN
+37,[2019-06-13 14:16:15], <Silvia_Victime>, Avec ta mère Adrien,victim,OAG,bully,OTH,DFN,ATK
+38,[2019-06-13 14:16:16], <Diana>, En plus d'etre une  aguicheusse de merde tu es une menteuse ,bully_support,OAG,victim,DNG,GSL,DFN
+39,[2019-06-13 14:16:19], <Amos_soutienAdri>, sa faute*,bully_support,NAG,NULL,NULL,OTH,AIN
+40,[2019-06-13 14:16:24], <Soan_SoutienV>, Arreter laisser la tranquille elle a rien fait,victim_support,NAG,NULL,NULL,CR,NULL
+41,[2019-06-13 14:16:37], <Herbert_concil>, Puis ça arrive,conciliator,NAG,NULL,NULL,OTH,CR
+42,[2019-06-13 14:16:45], <Amos_soutienAdri>, San tas rien fait et ne fait rien mnt,bully_support,NAG,NULL,NULL,OTH,CR
+43,[2019-06-13 14:16:49], <Adrien_harceleur>, toi ta mere c satan ,bully,OAG,victim,OTH,ATK,DFN
+44,[2019-06-13 14:16:51], <Silvia_Victime>, Il a mis sa langue dans ma bouche j'ai rien fait pour la retirer mais faut te calmùer avec les insultes ,victim,NAG,NULL,NULL,DFN,ATK
+45,[2019-06-13 14:16:52], <Amos_soutienAdri>, soan,bully_support,NAG,NULL,NULL,OTH,OTH
+46,[2019-06-13 14:16:54], <Silvia_Victime>, c'est pas cool,victim,NAG,NULL,NULL,DFN,NULL
+47,[2019-06-13 14:17:07], <Diana>, non sa arrive pas elle ne peux pas se trouver un mec sans foutre le couple des autres en l'air !,bully_support,OAG,victim,OTH,AIN,DFN
+48,[2019-06-13 14:17:22], <Amos_soutienAdri>, t'es sérieuse? en plus tu continue,bully_support,CAG,victim,OTH,AIN,DFN
+49,[2019-06-13 14:17:23], <Silvia_Victime>, Si elle est mauvaise au pieu c'est pas de ma faute,victim,OAG,bully,DNG,DFN,AIN
+50,[2019-06-13 14:17:27], <Adrien_harceleur>, arrete de mentir ,bully,OAG,victim,BLM,GSL,DFN
+51,[2019-06-13 14:17:30], <Herbert_concil>, Elle a pas réfléchit puis Lucas à sa part de responsabilité,conciliator,NAG,NULL,NULL,CR,GSL
+52,[2019-06-13 14:17:38], <Silvia_Victime>, merci Herbert,victim,NAG,NULL,NULL,OTH,CR
+53,[2019-06-13 14:17:40], <Amos_soutienAdri>, tu pouvais juste ne pas l'embrasser c'est ta faute boulette ,bully_support,OAG,victim,BLM,GSL,DFN
+54,[2019-06-13 14:18:04], <Silvia_Victime>, vaut mieux être un boulette baisable qu'un bâton frigide,victim,OAG,bully_support,OTH,DFN,GSL
+55,[2019-06-13 14:18:54], <Silvia_Victime>, plus rien à dire?,victim,OAG,bully_support,OTH,DFN,GSL
+56,[2019-06-13 14:18:54], <Amos_soutienAdri>," oula,  t'attaques? ",bully_support,CAG,victim,OTH,ATK,DFN
+57,[2019-06-13 14:18:54], <Diana>, il voulait pas LUI!,bully_support,CAG,victim,OTH,AIN,DFN
+58,[2019-06-13 14:18:57], <Adrien_harceleur>, e a de queue un trans travelo ,bully,OAG,victim,NCG,ATK,DFN
+59,[2019-06-13 14:19:11], <Silvia_Victime>, en fcs ça donne quoi Einstein?,victim,CAG,bully,DNG,DFN,ATK
+60,[2019-06-13 14:19:12], <Herbert_concil>, Oh calmez-vous on est quand même pote tout de même,conciliator,NAG,NULL,NULL,CR,NULL
+61,[2019-06-13 14:19:28], <Silvia_Victime>, je le pensais mais bon,victim,NAG,NULL,NULL,OTH,CR
+62,[2019-06-13 14:19:41], <Diana>, je suis pas potes avec des aguicheuse pareil ! je voudrait pas qu'on me pennes attentionner mon copain,bully_support,OAG,victim,NCG,ATK,CR
+63,[2019-06-13 14:19:49], <Amos_soutienAdri>, tais-toi ,bully_support,OAG,victim,OTH,ATK,OTH
+64,[2019-06-13 14:19:50], <Adrien_harceleur>, apprend a lire avant de me parler,bully,CAG,victim,DNG,ATK,DFN
+65,[2019-06-13 14:20:08], <Diana>, attentionnellement*,bully_support,NAG,bully,OTH,OTH,NULL
+66,[2019-06-13 14:20:09], <Silvia_Victime>, je pique les mecs moi apparement,victim,OAG,bully,OTH,DFN,ATK
+67,[2019-06-13 14:20:14], <Silvia_Victime>, j'ai pas besoin de savoir lire,victim,OAG,NULL,NULL,DFN,ATK
+68,[2019-06-13 14:20:17], <Diana>, ouais ,bully_support,NAG,NULL,NULL,OTH,DFN
+69,[2019-06-13 14:20:28], <Amos_soutienAdri>, ohhh ca part bien ,bully_support,NAG,NULL,NULL,OTH,DFN
+70,[2019-06-13 14:20:32], <Adrien_harceleur>, parceque t une pute qui les chauffe et qui les paie ,bully,OAG,victim,OTH,ATK,DFN
+71,[2019-06-13 14:20:38], <Diana>, t'es une pute qui n'arrive pas a trouver de mec ,bully_support,OAG,victim,OTH,ATK,DFN
+72,[2019-06-13 14:20:43], <Silvia_Victime>, c'est ton père qui les paie,victim,OAG,bully_support,OTH,DFN,ATK
+73,[2019-06-13 14:20:44], <Adrien_harceleur>, et apres tu leur donne des MST,bully,OAG,victim,OTH,ATK,DFN
+74,[2019-06-13 14:20:44], <Amos_soutienAdri>, si tu veux être une pute personne t'oblige a lire,bully_support,OAG,victim,OTH,ATK,DFN
+75,[2019-06-13 14:21:02], <Silvia_Victime>, personne oblige ta soeur à savoir lire non plus,victim,OAG,bully_support,OTH,DFN,ATK
+76,[2019-06-13 14:21:08], <Adrien_harceleur>, le mien il a de l argent au moins ,bully,OAG,victim,OTH,ATK,DFN
+77,[2019-06-13 14:21:15], <Silvia_Victime>, et il apie,victim,OAG,bully,OTH,DFN,ATK
+78,[2019-06-13 14:21:17], <Silvia_Victime>, paie,victim,NAG,NULL,NULL,OTH,NULL
+79,[2019-06-13 14:21:25], <Adrien_harceleur>, il m envoie pas au bar a pute comme toi,bully,OAG,victim,OTH,ATK,DFN
+80,[2019-06-13 14:21:35], <Diana>, tout sa parce que t'es jalouse de leurs amour connasse ,bully_support,OAG,victim,NCG,AIN,DFN
+81,[2019-06-13 14:21:37], <Silvia_Victime>, il a pas besoin d'aller au bar,victim,CAG,bully,OTH,OTH,ATK
+82,[2019-06-13 14:21:42], <Silvia_Victime>, il leur paie des apparts privés,victim,CAG,bully,OTH,OTH,ATK
+83,[2019-06-13 14:21:43], <Adrien_harceleur>, apprend a écrire connasse,bully,OAG,victim,NCG,ATK,DFN
+84,[2019-06-13 14:21:53], <Amos_soutienAdri>, après c'est pas difficile savoir où t'es pendant la nuit ,bully_support,OAG,victim,OTH,ATK,OTH
+85,[2019-06-13 14:22:15], <Adrien_harceleur>, t conne,bully,OAG,victim,DNG,AIN,NULL
+86,[2019-06-13 14:22:19], <Adrien_harceleur>, pute ,bully,OAG,victim,NCG,AIN,NULL
+87,[2019-06-13 14:22:22], <Adrien_harceleur>, salope ,bully,OAG,victim,NCG,AIN,NULL
+88,[2019-06-13 14:22:25], <Adrien_harceleur>, enculé,bully,OAG,victim,NCG,AIN,NULL
+89,[2019-06-13 14:22:25], <Herbert_concil>, Adri calme-toi ça sert à rien de sénerver,conciliator,NAG,NULL,NULL,CR,AIN
+90,[2019-06-13 14:22:31], <Amos_soutienAdri>, alors plus rien à dire Silvia?,bully_support,OAG,victim,OTH,AIN,NULL
+91,[2019-06-13 14:22:41], <Silvia_Victime>, écoute si tu es frustré pcq tu en as une mini c'est pas de ma faute,victim,OAG,bully,DNG,DFN,AIN
+92,[2019-06-13 14:22:49], <Amos_soutienAdri>, T'as enfin fermé ta gueule?,bully_support,OAG,victim,OTH,AIN,NULL
+93,[2019-06-13 14:22:54], <Adrien_harceleur>, te mele pas de ca herbert,bully,NAG,NULL,NULL,OTH,CR
+94,[2019-06-13 14:22:59], <Silvia_Victime>, même une aveugle cul de jatte serait pas excitée par toi,victim,OAG,bully,DNG,DFN,AIN
+95,[2019-06-13 14:23:01], <Soan_SoutienV>, On se calme arreter de l'attaquer tout le temps a la fin,victim_support,NAG,NULL,NULL,CR,NULL
+96,[2019-06-13 14:23:18], <Silvia_Victime>, Tkt Soan ils me font pitié,victim,NAG,NULL,NULL,OTH,CR
+97,[2019-06-13 14:23:22], <Diana>, tu prend tout ton temps pour embrasser des mecs en couple c'est sa ?,bully_support,OAG,victim,OTH,ATK,NULL
+98,[2019-06-13 14:23:29], <Diana>, tu as trouver une nouvelle cible ?,bully_support,OAG,victim,OTH,ATK,NULL
+99,[2019-06-13 14:23:35], <Silvia_Victime>, tu veux que j'essaie le tien?,victim,OAG,bully,THR,DFN,ATK
+100,[2019-06-13 14:23:35], <Adrien_harceleur>, viens la voir et verrai quel fera plus mal que ce que tu crois ,bully,OAG,bully,THR,ATK,DFN
+101,[2019-06-13 14:23:53], <Adrien_harceleur>, t encore pucelle et tu parle avec moi,bully,OAG,victim,NCG,ATK,DFN
+102,[2019-06-13 14:23:58], <Silvia_Victime>, ...,victim,NAG,NULL,NULL,OTH,NULL
+103,[2019-06-13 14:24:07], <Adrien_harceleur>, moi jai enculé ta darronne la salope,bully,OAG,victim,OTH,ATK,DFN
+104,[2019-06-13 14:24:21], <Adrien_harceleur>, cette pute la marrave ,bully,OAG,victim,OTH,ATK,DFN
+105,[2019-06-13 14:24:24], <Herbert_concil>, Parle bien fils,conciliator,NAG,NULL,NULL,CR,ATK
+106,[2019-06-13 14:24:38], <Adrien_harceleur>, herbert arrete,bully,NAG,NULL,NULL,OTH,NULL
+107,[2019-06-13 14:24:51], <Amos_soutienAdri>, t'es venu au nom de dieu Herbert? ,bully_support,NAG,NULL,NULL,OTH,NULL
+108,[2019-06-13 14:24:53], <Adrien_harceleur>, alors on ferme sa gueule,bully,OAG,victim,OTH,AIN,NULL
+109,[2019-06-13 14:24:55], <Diana>, bien ouej adri,bully_support,NAG,NULL,NULL,AIN,AIN
+110,[2019-06-13 14:24:57], <Amos_soutienAdri>, ne te mele pas plus,bully_support,NAG,NULL,NULL,OTH,CR
+111,[2019-06-13 14:25:46], <Diana>, tu veux quoi herbert qu'elle t'embrasse aussi ?,bully_support,OAG,conciliator,OTH,ATK,CR
+112,[2019-06-13 14:25:54], <Adrien_harceleur>, pédale des qu on est triste on va pleuré chez papa pendant qu il se branle,bully,OAG,conciliator,OTH,ATK,CR
+113,[2019-06-13 14:25:58], <Diana>, tu la kiffe cette pétasse ?,bully_support,OAG,conciliator,NCG,ATK,CR
+114,[2019-06-13 14:26:36], <Amos_soutienAdri>, allé un nouveau client pour toi Silvia,bully_support,CAG,victim,OTH,ATK,NULL
+115,[2019-06-13 14:26:38], <Herbert_concil>, Les gars vous tourné pas contre moi ,conciliator,NAG,NULL,NULL,CR,ATK
+116,[2019-06-13 14:26:40], <Amos_soutienAdri>, félicitations,bully_support,CAG,victim,OTH,AIN,ATK
+117,[2019-06-13 14:26:51], <Amos_soutienAdri>, c'est toi qui se mele ,bully_support,CAG,conciliator,BLM,GSL,CR
+118,[2019-06-13 14:26:54], <Herbert_concil>, Je veux juste que ça sarange,conciliator,NAG,NULL,NULL,CR,GSL
+119,[2019-06-13 14:27:12], <Diana>, tu es de son côté alors qu'elle traine son cul sale partout ou ya des mecs ,bully_support,OAG,victim,BLM,ATK,CR
+120,[2019-06-13 14:27:15], <Adrien_harceleur>, c vrai herbert il est nien il a pas pécho le mec de sophie luii!!!!!!,bully,OAG,victim,BLM,AIN,ATK
+121,[2019-06-13 14:27:15], <Diana>, tu dois kiffer,bully_support,OAG,victim,OTH,ATK,CR
+122,[2019-06-13 14:27:22], <Amos_soutienAdri>, bah c'est pas toi qui va y réussir Einstein,bully_support,OAG,conciliator,NCG,ATK,CR
+123,[2019-06-13 14:27:52], <Adrien_harceleur>, ban t ou sylvia on t entend plus ,bully,NAG,NULL,NULL,OTH,NULL
+124,[2019-06-13 14:27:58], <Soan_SoutienV>, tkt pas Silvia ce sont que des cons,victim_support,OAG,bully/bully_support,NCG,EMP,NULL
+125,[2019-06-13 14:28:14], <Diana>, sylvia ouuouuu?,bully_support,NAG,NULL,NULL,OTH,NULL
+126,[2019-06-13 14:28:27], <Amos_soutienAdri>, pas plus que toi Soan,bully_support,OAG,victim_support,OTH,ATK,EMP
+127,[2019-06-13 14:28:29], <Soan_SoutienV>, laiisser,victim_support,NAG,NULL,NULL,OTH,NULL
+128,[2019-06-13 14:28:40], <Amos_soutienAdri>, Alors Silvia?,bully_support,NAG,NULL,NULL,OTH,NULL
+129,[2019-06-13 14:28:44], <Silvia_Victime>, déso j'avais plus de connexion,victim,NAG,NULL,NULL,OTH,NULL
+130,[2019-06-13 14:28:46], <Silvia_Victime>, merde,victim,NAG,NULL,NULL,OTH,NULL
+131,[2019-06-13 14:28:51], <Silvia_Victime>, donc on en était où?,victim,NAG,NULL,NULL,OTH,NULL
+132,[2019-06-13 14:29:00], <Adrien_harceleur>, deja on est pas con soan,bully,NAG,NULL,NULL,OTH,EMP
+133,[2019-06-13 14:29:02], <Silvia_Victime>, ah oui,victim,NAG,NULL,NULL,OTH,NULL
+134,[2019-06-13 14:29:03], <Herbert_concil>," C'est bon au pire laissez la et on passe à autre chose, vous faites quoi ce week-end ?",conciliator,NAG,NULL,NULL,CR,NULL
+135,[2019-06-13 14:29:04], <Silvia_Victime>, Adrien ,victim,NAG,NULL,NULL,OTH,NULL
+136,[2019-06-13 14:29:07], <Amos_soutienAdri>, c'est ça ton excuse de merde?,bully_support,OAG,victim,OTH,GSL,OTH
+137,[2019-06-13 14:29:29], <Adrien_harceleur>, ces ton pere qui la pomper comme toi avec les mecs!!!!!!!!!!!!!!!!,bully,OAG,victim,OTH,ATK,OTH
+138,[2019-06-13 14:29:30], <Silvia_Victime>, Je vais demander à ton père de me payer un vrai phone,victim,CAG,bully,OTH,DFN,ATK
+139,[2019-06-13 14:29:43], <Silvia_Victime>, mon père est mort fdp,victim,OAG,bully,NCG,DFN,ATK
+140,[2019-06-13 14:30:05], <Herbert_concil>, ;;;,conciliator,NAG,NULL,NULL,OTH,NULL
+141,[2019-06-13 14:30:20], <Silvia_Victime>, mais vazi sens toi mieux mtnt,victim,NAG,NULL,NULL,OTH,NULL
+142,[2019-06-13 14:30:27], <Diana>," c'est parce qu'il a eu une vrai leçon, lui aussi il piquer les meufs des autres ?",bully_support,OAG,victim,OTH,ATK,DFN
+143,[2019-06-13 14:30:27], <Adrien_harceleur>, il pourras pas t acheter de tel,bully,NAG,NULL,OTH,ATK,DFN
+144,[2019-06-13 14:30:35], <Silvia_Victime>, le tien oui,victim,CAG,bully,OTH,DFN,ATK
+145,[2019-06-13 14:30:36], <Soan_SoutienV>, respecter sa famille puatin,victim_support,NAG,NULL,NULL,EMP,ATK
+146,[2019-06-13 14:30:48], <Adrien_harceleur>, sa fammille de pute,bully,OAG,victim,DNG,ATK,EMP
+147,[2019-06-13 14:30:55], <Diana>, cest pas respectable ,bully_support,OAG,victim,DNG,ATK,EMP
+148,[2019-06-13 14:31:10], <Silvia_Victime>, techniquement mon père était comptable ,victim,NAG,NULL,NULL,OTH,NULL
+149,[2019-06-13 14:31:14], <Silvia_Victime>, mais si tu veux,victim,NAG,NULL,NULL,OTH,NULL
+150,[2019-06-13 14:31:17], <Adrien_harceleur>, si il est mort c est de tas faute parce que t une grosse pute,bully,OAG,victim,BLM,ATK,DFN
+151,[2019-06-13 14:31:23], <Adrien_harceleur>, il s est suicider ,bully,OAG,victim,BLM,ATK,DFN
+152,[2019-06-13 14:31:44], <Silvia_Victime>, ...,victim,NAG,NULL,NULL,OTH,ATK
+153,[2019-06-13 14:32:00], <Adrien_harceleur>, comptable de pute entre ta mere et toi,bully,OAG,victim,OTH,ATK,DFN
+154,[2019-06-13 14:32:07], <Adrien_harceleur>, il les collectionnent ,bully,OAG,victim,OTH,ATK,DFN
+155,[2019-06-13 14:32:11], <Adrien_harceleur>, salope ,bully,OAG,victim,NCG,ATK,DFN
+156,[2019-06-13 14:32:11], <Silvia_Victime>, a propos de pute,victim,OAG,bully,DNG,DFN,ATK
+157,[2019-06-13 14:32:11], <Soan_SoutienV>, Et ta soeur elle veut meme plus te voir Adrien alors tait toi,victim_support,NAG,NULL,NULL,DFN,ATK
+158,[2019-06-13 14:32:21], <Silvia_Victime>, demande à ta mère comment elle arrive à te faire manger,victim,OAG,bully,DNG,DFN,ATK
+159,[2019-06-13 14:32:23], <Herbert_concil>, Silvia comprend qu'on est énervé je te conseille de quitter la discussion,conciliator,NAG,NULL,NULL,CR,NULL
+160,[2019-06-13 14:32:35], <Silvia_Victime>, Mais oui... ,victim,NAG,NULL,NULL,OTH,CR
+161,[2019-06-13 14:32:45], <Silvia_Victime>, on m'insulte et je dois faire l'autruche,victim,NAG,NULL,NULL,OTH,CR
+162,[2019-06-13 14:32:49], <Silvia_Victime>, t'as vu ça où?,victim,NAG,NULL,NULL,OTH,CR
+163,[2019-06-13 14:32:56], <Adrien_harceleur>, non reste je vais te demonte ta gueule qui suce des bites,bully,OAG,victim,THR,ATK,OTH
+164,[2019-06-13 14:33:07], <Amos_soutienAdri>, vas-y grosse pute. tu te sens mal maintenant enfin ,bully_support,OAG,victim,NCG,ATK,NULL
+165,[2019-06-13 14:33:09], <Silvia_Victime>, personne te la suce la tienne,victim,OAG,bully,DNG,DFN,ATK
+166,[2019-06-13 14:33:13], <Diana>, comme une autruche tu met ta tete dans des trou ?,bully_support,CAG,victim,DNG,ATK,OTH
+167,[2019-06-13 14:33:18], <Soan_SoutienV>, Ca commence a etre lourd la,victim_support,NAG,NULL,NULL,OTH,NULL
+168,[2019-06-13 14:33:35], <Adrien_harceleur>, parce que elle est trop grosse pour rentrer dans ta boche,bully,OAG,victim,OTH,ATK,DFN
+169,[2019-06-13 14:33:37], <Silvia_Victime>, ton père plein de mst il met autre chose dans des trous,victim,OAG,bully,DNG,DFN,ATK
+170,[2019-06-13 14:33:41], <Diana>, met ta tete entre tes cuisses a la place de prendre les mecs des autres ,bully_support,OAG,victim,OTH,ATK,NULL
+171,[2019-06-13 14:33:42], <Adrien_harceleur>, boucje,bully,NAG,NULL,NULL,OTH,NULL
+172,[2019-06-13 14:33:57], <Silvia_Victime>, dans ma boche... Voilà qu'on devient raciste,victim,CAG,bully,OTH,DFN,ATK
+173,[2019-06-13 14:33:58], <Silvia_Victime>, bravo,victim,CAG,bully,OTH,DFN,ATK
+174,[2019-06-13 14:34:07], <Adrien_harceleur>, ls trous de ta mere,bully,OAG,victim,OTH,ATK,DFN
+175,[2019-06-13 14:34:33], <Silvia_Victime>, les trous de la tienne sont plus larges vu les mecs qu'elle s'enfile,victim,OAG,bully,DNG,DFN,ATK
+176,[2019-06-13 14:34:54], <Adrien_harceleur>, ta mere la brochettes,bully,OAG,victim,NCG,ATK,DFN
+177,[2019-06-13 14:35:04], <Diana>, au moins mon pere est pas mort,bully_support,OAG,victim,OTH,ATK,DFN
+178,[2019-06-13 14:35:14], <Herbert_concil>, tout doux les loups,conciliator,NAG,NULL,NULL,CR,NULL
+179,[2019-06-13 14:35:20], <Silvia_Victime>, au moins j'arrive à me faire embrasse Diana,victim,CAG,bully,OTH,DFN,ATK
+180,[2019-06-13 14:35:27], <Soan_SoutienV>, Fermez vos geule à la fin laiisser la tranquille,victim_support,OAG,bully/bully_support,OTH,DFN,NULL
+181,[2019-06-13 14:35:31], <Silvia_Victime>, embrasser*,victim,NAG,NULL,NULL,OTH,NULL
+182,[2019-06-13 14:35:49], <Diana>, jai pas besoin d'embrasser un mec en le forcant moi :),bully_support,CAG,victim,OTH,ATK,DFN
+183,[2019-06-13 14:36:02], <Silvia_Victime>, c'est ton père qui te forçait,victim,CAG,bully_support,OTH,DFN,ATK
+184,[2019-06-13 14:36:04], <Amos_soutienAdri>, bien ouej,bully_support,CAG,victim,OTH,AIN,ATK
+185,[2019-06-13 14:36:17], <Silvia_Victime>, c'est pour ça que tu marches pas droit,victim,CAG,bully_support,OTH,DFN,ATK
+186,[2019-06-13 14:36:27], <Herbert_concil>, chaud,conciliator,NAG,NULL,NULL,OTH,NULL
+187,[2019-06-13 14:36:45], <Diana>, tu as jamais reussis a marcher droit ,bully_support,CAG,victim,DNG,ATK,DFN
+188,[2019-06-13 14:36:49], <Adrien_harceleur>, toi aussi tu marche pas droit parceque tu t fais demonter par ton pere,bully,OAG,victim,OTH,ATK,DFN
+189,[2019-06-13 14:36:49], <Silvia_Victime>, faut pas attaquer les gens gratuitement,victim,NAG,NULL,NULL,CNS,NULL
+190,[2019-06-13 14:36:57], <Silvia_Victime>, il est mort mon pềre,victim,NAG,NULL,NULL,OTH,NULL
+191,[2019-06-13 14:36:57], <Diana>, toujours etait une pute de mere en fille,bully_support,OAG,victim,DNG,ATK,DFN
+192,[2019-06-13 14:36:59], <Silvia_Victime>, faut suivre,victim,NAG,NULL,NULL,OTH,NULL
+193,[2019-06-13 14:37:02], <Adrien_harceleur>, il est manque dans son cimetire,bully,OAG,victim,OTH,ATK,OTH
+194,[2019-06-13 14:37:03], <Herbert_concil>, Bonne nuit bisous,conciliator,NAG,NULL,NULL,OTH,NULL
+195,[2019-06-13 14:37:20], <Adrien_harceleur>, il pourra enculé ta mere la squellette,bully,OAG,victim,DNG,ATK,OTH

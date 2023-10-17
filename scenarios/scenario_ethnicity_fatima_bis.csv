@@ -1,0 +1,195 @@
+ID;TIME;NAME;TEXT;ROLE;HATE;TARGET;VERBAL_ABUSE;INTENTION;CONTEXT
+0;11:09:11 AM;FatimaVictime; nicolas j'ai pris des screens fais gaffe à toi;victim;OAG;bully_support;THR;DFN;NULL
+1;11:09:11 AM;Nicolas90; j'attends ta reponse;bully_support;NAG;NULL;NULL;OTH;NULL
+2;11:09:12 AM;paulineee; valeur de notre pays;bully;NAG;NULL;NULL;OTH;NULL
+3;11:09:16 AM;Nicolas90; ah non;bully_support;NAG;NULL;NULL;OTH;NULL
+4;11:09:18 AM;pierre63; venez on va la taper sur MSN;bully_support;OAG;victim;OTH;ATK;NULL
+5;11:09:24 AM;Nicolas90; t'as elle a screen;bully_support;NAG;NULL;NULL;OTH;NULL
+6;11:09:30 AM;paulineee; en mode on a peur bahaha gros lol;bully;NAG;NULL;NULL;OTH;DFN
+7;11:09:52 AM;Nicolas90; Sur le Coran je suis plus fort que messi;bully_support;NAG;NULL;NULL;OTH;NULL
+8;11:10:00 AM;paulineee; genie;bully;NAG;NULL;NULL;OTH;NULL
+9;11:10:00 AM;Nicolas90; allez ciao;bully_support;NAG;NULL;NULL;OTH;NULL
+10;11:10:04 AM;FatimaVictime;" ouais ce que vous faites ça peut vous emmener en prison ;)";victim;NAG;NULL;NULL;CNS;OTH
+11;11:10:14 AM;julie; vasi allez vous tuer elle a rien fait;victim_support;OAG;bully/bully_support;OTH;DFN;NULL
+12;11:10:20 AM;Nicolas90; tkt pas suffit de connaitre les juges on passe sous le bureau et c'est carré;bully_support;NAG;NULL;NULL;OTH;CNS
+13;11:10:40 AM;theo70; ptdddrr mais;conciliator;NAG;NULL;NULL;OTH;OTH
+14;11:10:40 AM;julie; allez sous un pont les gens jaloux;victim_support;OAG;bully/bully_support;OTH;DFN;NULL
+15;11:10:40 AM;FatimaVictime; tu vois c'est toi la pute maintenant nicolas;victim;OAG;bully_support;NCG;DFN;NULL
+16;11:10:44 AM;paulineee; ta photo elle va faire un voyage;bully;OAG;victim;THR;ATK;DFN
+17;11:10:48 AM;Nicolas90; fatou t'es pas francaise;bully_support;OAG;victim;DNG;ATK;DFN
+18;11:10:54 AM;paulineee; comme toi a ton pays;bully;CAG;victim;DNG;ATK;DFN
+19;11:10:57 AM;Nicolas90; t'as les nerfs;bully_support;NAG;NULL;NULL;OTH;DFN
+20;11:11:15 AM;FatimaVictime; vous me fatiguez laissez moi vivre ma vie;victim;NAG;NULL;NULL;OTH;NULL
+21;11:11:15 AM;julie; vous etes des rageux;victim_support;NAG;NULL;NULL;OTH;NULL
+22;11:11:25 AM;julie; laisser la;victim_support;NAG;NULL;NULL;EMP;NULL
+23;11:11:26 AM;paulineee; vie loin alors;bully;AOG;victim;BLM;ATK;OTH
+24;11:11:27 AM;julie; merde;victim_support;NAG;NULL;NULL;OTH;NULL
+25;11:11:29 AM;theo70;  meuf calcule pas c'est bon;conciliator;NAG;NULL;NULL;EMP;NULL
+26;11:11:33 AM;paulineee; c toi qui fatigue meuf;bully;CAG;victim;BLM;GSL;OTH
+27;11:11:50 AM;Teresa; tg;victim_support;OAG;bully;OTH;DFN;GSL
+28;11:11:51 AM;theo70; pauline ça y est arrete vdm;conciliator;NAG;NULL;NULL;OTH;GSL
+29;11:12:00 AM;paulineee; tu es ??;bully;NAG;NULL;NULL;OTH;OTH
+30;11:12:05 AM;FatimaVictime; si t'avais pas envoyé ma photo on en serait pas là pauline;victim;NAG;NULL;NULL;OTH;NULL
+31;11:12:08 AM;julie;  masi vous etes qui fermer la;victim_support;OAG;bully/bully_support;OTH;DFN;NULL
+32;11:12:12 AM;theo70; mddrr vas-y arrête;conciliator;NAG;NULL;NULL;OTH;DFN
+33;11:12:17 AM;julie; laisser la;victim_support;NAG;NULL;NULL;EMP;NULL
+34;11:12:21 AM;theo70; t'es ma pote mais la t'abuses;conciliator;NAG;NULL;NULL;EMP;NULL
+35;11:12:21 AM;paulineee; qui me l'interdit encore une fois;bully;NAG;NULL;NULL;OTH;NULL
+36;11:12:28 AM;julie;  ya pas a pas avoir de vie comme ca;victim_support;NAG;NULL;NULL;OTH;NULL
+37;11:12:37 AM;theo70; ouais tu perds ton temps en vrai;conciliator;NAG;NULL;NULL;OTH;OTH
+38;11:12:43 AM;julie; sors fait un truc remet toi en question seule misk;victim_support;NAG;NULL;NULL;OTH;NULL
+39;11:12:48 AM;paulineee; vous comprenez rien a la vie c chaud;bully;OAG;victim/victim_support;OTH;ATK;NULL
+40;11:12:54 AM;Teresa; c toi lio;victim_support;OAG;bully;OTH;DFN;ATK
+41;11:12:55 AM;julie; tu fais pitier;victim_support;OAG;bully;DNG;DFN;ATK
+42;11:12:57 AM;Teresa; lol;victim_support;NAG;NULL;NULL;OTH;ATK
+43;11:13:08 AM;theo70; vas-y c'est bon ca te sert a rien d'avoir la haine comme ça;conciliator;NAG;NULL;NULL;EMP;NULL
+44;11:13:11 AM;FatimaVictime; tas aucun argument pauline;victim;NAG;NULL;NULL;CNS;ATK
+45;11:13:13 AM;theo70; j'te parle sérieux;conciliator;NAG;NULL;NULL;OTH;ATK
+46;11:13:38 AM;paulineee; tkt pas pour moi;bully;NAG;NULL;NULL;OTH;CNS
+47;11:13:40 AM;FatimaVictime; tu vois bien que tout le monde pense que ça craint ce que t'as fait pauline;victim;NAG;NULL;NULL;CNS;OTH
+48;11:13:51 AM;paulineee; va dodo c mieux;bully;CAG;victim;OTH;OTH;CNS
+49;11:14:10 AM;theo70; toi aussi jppp laisse la;conciliator;NAG;NULL;NULL;EMP;NULL
+50;11:14:37 AM;Nicolas87; salut salut;bully_support;NAG;NULL;NULL;OTH;NULL
+51;11:14:40 AM;paulineee; ta gacher le voyage en plus de tout;bully;OAG;victim;BLM;GSL;NULL
+52;11:14:46 AM;Nicolas87; je suis de retour les suceurs;bully_support;OAG;victim/victim_support;NCG;ATK;NULL
+53;11:14:55 AM;FatimaVictime; d'où j'ai gâché c'est toi qui gache tout;victim;OAG;bully;OTH;DFN;GSL
+54;11:15:03 AM;theo70; viens on revise le mana c mieux lol;conciliator;NAG;NULL;NULL;OTH;NULL
+55;11:15:07 AM;paulineee; ta pas ta place;bully;OAG;victim;DNG;ATK;NULL
+56;11:15:07 AM;Nicolas87; enfant gacher;bully_support;OAG;victim;DNG;ATK;NULL
+57;11:15:08 AM;theo70; tu perds ton temps;conciliator;NAG;NULL;NULL;OTH;ATK
+58;11:15:15 AM;FatimaVictime; theo t'as raison...;victim;NAG;NULL;NULL;EMP;OTH
+59;11:15:15 AM;paulineee; toi aussi;bully;NAG;NULL;NULL;OTH;OTH
+60;11:15:20 AM;pierre63;" jgvhuv l;g";bully_support;NAG;NULL;NULL;OTH;NULL
+61;11:15:40 AM;Nicolas87; combien?;bully_support;NAG;NULL;NULL;OTH;NULL
+62;11:15:46 AM;julie; srx la on va parler du faites que vous etes 3 a pas avoir de vies et vous vous dechainez sur une meuf qui a rien demander sur c'est origine qui a les meme droits que vous et qui esseye juste de pas creuver avec faut insulte allez tous passer sous un pont , et vous irrai mieux;victim_support;OAG;bully/bully_support;OTH;DFN;NULL
+63;11:16:01 AM;Teresa; bien sur julie;victim_support;NAG;NULL;NULL;EMP;DFN
+64;11:16:05 AM;theo70; julie jtm;conciliator;NAG;NULL;NULL;EMP;DFN
+65;11:16:06 AM;Nicolas87; c bien bon toutou;bully_support;OAG;victim_support;NCG;ATK;DFN
+66;11:16:12 AM;paulineee; pffffff;bully;NAG;NULL;NULL;OTH;DFN
+67;11:16:20 AM;paulineee; PTDR;bully;NAG;NULL;NULL;OTH;DFN
+68;11:16:21 AM;theo70; pauline t'as trop la rage;conciliator;NAG;NULL;NULL;OTH;OTH
+69;11:16:28 AM;Nicolas87; julie elle est un peu trop à l'aise avce les bangalas;bully_support;CAG;victim_support;OTH;ATK;DFN
+70;11:16:30 AM;theo70; detend tes nerfs 0 vanne;conciliator;NAG;NULL;NULL;OTH;OTH
+71;11:16:31 AM;pierre63; les fautes d'orthographe julie..;bully_support;CAG;victim_support;DNG;ATK;DFN
+72;11:16:40 AM;paulineee; jai 0nerfs;bully;NAG;NULL;NULL;OTH;OTH
+73;11:16:40 AM;Nicolas87; dose julie;bully_support;NAG;NULL;NULL;OTH;DFN
+74;11:16:40 AM;pierre63; ca passe po;bully_support;NAG;NULL;NULL;OTH;DFN
+75;11:16:54 AM;FatimaVictime; nicolas frustré d'être face à quelqu'un de plus intelligent ?;victim;CAG;bully_support;DNG;DFN;OTH
+76;11:17:03 AM;paulineee; chacun a la bonne place c tout;bully;CAG;victim;OTH;ATK;NULL
+77;11:17:04 AM;Nicolas87; ah bon ???;bully_support;NAG;NULL;NULL;OTH;DFN
+78;11:17:05 AM;julie; vasi jle prend vraiment pour moi bonnnnn;victim_support;NAG;NULL;NULL;OTH;ATK
+79;11:17:14 AM;theo70; pauline stop vsy;conciliator;NAG;NULL;NULL;OTH;ATK
+80;11:17:19 AM;Nicolas87; comment une étrangère peut etre plus intellignet que moi;bully_support;OAG;victim;DNG;ATK;DFN
+81;11:17:20 AM;theo70; on a tous notre place autan toi qu'elle;conciliator;NAG;NULL;NULL;OTH;ATK
+82;11:17:39 AM;pierre63; theo le justicier de merde mddrr;bully_support;OAG;conciliator;OTH;ATK;OTH
+83;11:17:44 AM;paulineee; grv;bully;NAG;NULL;NULL;AIN;ATK
+84;11:17:44 AM;Nicolas87; baahahahahahaahahahaha pierre t qui;bully_support;NAG;NULL;NULL;OTH;ATK
+85;11:17:55 AM;FatimaVictime; yes, toi t'as 2 de qi;victim;OAG;bully_support;DNG;DFN;ATK
+86;11:17:56 AM;paulineee; des clowns;bully;CAG;victim/victim_support/conciliator;OTH;ATK;NULL
+87;11:18:10 AM;Nicolas87; Je rachete ta famille;bully_support;CAG;victim;DNG;ATK;NULL
+88;11:18:13 AM;theo70; ptddrrr tg pierre tu viens au foot apres?;conciliator;OAG;bully_support;OTH;DFN;ATK
+89;11:18:32 AM;paulineee; le rapport mv ??;bully;NAG;NULL;NULL;OTH;DFN
+90;11:18:35 AM;pierre63; non j'ai hand mv;bully_support;NAG;NULL;NULL;OTH;OTH
+91;11:18:42 AM;julie; tg;victim_support;OAG;bully;OTH;DFN;OTH
+92;11:18:47 AM;Nicolas87; evite tuy passes pour un gay;bully_support;OAG;bully_support;DNG;OTH;OTH
+93;11:18:47 AM;theo70; mais t'es relou ya match jppp;conciliator;NAG;NULL;NULL;OTH;OTH
+94;11:18:50 AM;pierre63; ntm tu c pa ekrire;bully_support;OAG;victim_support;OTH;ATK;DFN
+95;11:18:52 AM;julie; tg;victim_support;OAG;bully_support;OTH;DFN;ATK
+96;11:19:04 AM;paulineee; r a voir mais tkt ya pas a esquiver;bully;NAG;NULL;NULL;OTH;NULL
+97;11:19:10 AM;FatimaVictime; laissez moi tranquille;victim;NAG;NULL;NULL;OTH;NULL
+98;11:19:13 AM;Nicolas87; nan;bully_support;NAG;NULL;NULL;OTH;OTH
+99;11:19:14 AM;theo70; pauline on s'en blc là;conciliator;NAG;bully;NULL;OTH;OTH
+100;11:19:15 AM;Nicolas87; c ciao;bully_support;NAG;NULL;NULL;OTH;NULL
+101;11:19:16 AM;paulineee; pk;bully;NAG;NULL;NULL;OTH;OTH
+102;11:19:22 AM;Nicolas87; je vais m'occuper de ton cas;bully_support;OAG;conciliator;THR;ATK;OTH
+103;11:19:27 AM;theo70; t'es cool de base mais là t'abuses;conciliator;NAG;NULL;NULL;OTH;ATK
+104;11:19:30 AM;Nicolas87; petite boubou;bully_support;OAG;conciliator;NCG;ATK;OTH
+105;11:19:34 AM;paulineee; tu decois..;bully;CAG;conciliator;OTH;GSL;OTH
+106;11:19:40 AM;FatimaVictime; nicolas et pauline les gros racistes;victim;NAG;NULL;NULL;CNS;NULL
+107;11:19:42 AM;julie; fatima tu peux te défendre seule ?;victim_support;NAG;NULL;NULL;OTH;CNS
+108;11:19:43 AM;theo70; mddrrr dit-elle;conciliator;NAG;NULL;NULL;OTH;OTH
+109;11:19:44 AM;Nicolas87; reel que les blancs ici;bully_support;OAG;victim;OTH;ATK;CNS
+110;11:19:57 AM;julie; jchuis francaises moi;victim_support;NAG;NULL;NULL;OTH;ATK
+111;11:20:00 AM;paulineee; pff aller;bully;CAG;victim_support;NULL;OTH;OTH
+112;11:20:01 AM;Nicolas87; pas les modos discords ici;bully_support;NAG;NULL;NULL;OTH;NULL
+113;11:20:02 AM;theo70; c'est toi tu decois en vrai;conciliator;NAG;NULL;NULL;OTH;OTH
+114;11:20:09 AM;pierre63; moa aussi jle suis meuf;bully_support;NAG;NULL;NULL;OTH;OTH
+115;11:20:16 AM;paulineee; ta bien  changer le s;bully;CAG;NULL;NULL;GSL;OTH
+116;11:20:30 AM;julie; breff vasi quitte fatima ca irra mieux;victim_support;NAG;NULL;NULL;OTH;NULL
+117;11:20:32 AM;Nicolas87; allez ciao;bully_support;NAG;NULL;NULL;OTH;NULL
+118;11:20:34 AM;julie; oublie c'est gens;victim_support;NAG;NULL;NULL;OTH;NULL
+119;11:20:35 AM;theo70; vas-y juste soit cool avec elle;conciliator;NAG;NULL;NULL;OTH;NULL
+120;11:20:46 AM;paulineee; defaite;bully;NAG;NULL;NULL;OTH;NULL
+121;11:21:01 AM;FatimaVictime; c'est toi qui pue la défaite;victim;CAG;bully;DNG;DFN;OTH
+122;11:21:11 AM;paulineee; parle pas avec moi stp utilise tes gardes du corps;bully;CAG;victim;OTH;AIN;NULL
+123;11:21:25 AM;FatimaVictime; si tu retire ma photo ouais je veux bien plus jamais te parler;victim;NAG;NULL;NULL;OTH;AIN
+124;11:21:35 AM;theo70; mdrr vas-y casse toi retiree la photo c'est bon;conciliator;OAG;bully;OTH;DFN;NULL
+125;11:21:49 AM;paulineee; jte prend un billet aussi au passage ? oublie pas ton voile;bully;OAG;victim;OTH;ATK;OTH
+126;11:22:30 AM;pierre63; il est pas dans ma poche;bully_support;NAG;NULL;NULL;OTH;NULL
+127;11:22:33 AM;theo70; ca svoit t'es pour zemmour;conciliator;NAG;NULL;NULL;OTH;ATK
+128;11:22:37 AM;FatimaVictime; ouais au moins je verrai plus ta tronche si j'ai un voile;victim;OAG;bully;OTH;DFN;ATK
+129;11:22:52 AM;paulineee; carrement theo et alors ? 0 intelligence fatima;bully;OAG;victim;DNG;ATK;DFN
+130;11:23:40 AM;julie; cool;victim_support;NAG;NULL;NULL;OTH;NULL
+131;11:23:52 AM;theo70; vsy mais t'es relou avec fati;conciliator;NAG;NULL;NULL;OTH;ATK
+132;11:24:01 AM;julie; paupau tg et l'autre autre kiss kiss;victim_support;OAG;bully/bully_support;OTH;DFN;ATK
+133;11:24:14 AM;FatimaVictime; tu crois que tu l'es ? on s'en fiche de zemmour;victim;OAG;bully;DNG;DFN;ATK
+134;11:24:14 AM;theo70; genre t'es la tu l'insultes ca en devient genant carrement chacun son opinion juste respecte c tout;conciliator;NAG;NULL;NULL;CR;NULL
+135;11:24:36 AM;FatimaVictime; voila exactement t'es genante pauline;victim;OAG;bully;OTH;OTH;CR
+136;11:24:37 AM;paulineee; bv bv;bully;NAG;NULL;NULL;OTH;NULL
+137;11:24:50 AM;FatimaVictime; enlève ma photo et laisse moi tranquille;victim;NAG;NULL;NULL;OTH;NULL
+138;11:25:01 AM;theo70; on te demande pas plus frr;conciliator;NAG;NULL;NULL;OTH;OTH
+139;11:25:02 AM;paulineee; en quel honneur?;bully;CAG;victim;OTH;OTH;OTH
+140;11:25:05 AM;julie; tkt ma vie;victim_support;NAG;NULL;NULL;OTH;NULL
+141;11:25:10 AM;theo70; t'es une gamine;conciliator;NAG;NULL;NULL;OTH;OTH
+142;11:25:27 AM;paulineee; c'est q'une photo;bully;CAG;victim;OTH;GSL;NULL
+143;11:25:34 AM;theo70; met toi a sa place t'aurai réagi comment toi ?;conciliator;NAG;NULL;NULL;EMP;GSL
+144;11:25:49 AM;paulineee; oui mais j'y suis pas donc;bully;CAG;victim;OTH;GSL;EMP
+145;11:25:51 AM;julie; mets toi a ca place sans le voile mrc;victim_support;CAG;bully;OTH;DFN;GSL
+146;11:25:52 AM;FatimaVictime; l'honneur que tu me laisse tranquille et que t'aille voter zemmour dans ton coin sans lâcher tes idées puantes au lycée;victim;CAG;bully;OTH;DFN;OTH
+147;11:26:08 AM;Nicolas93; salut salut;bully_support;NAG;NULL;NULL;OTH;NULL
+148;11:26:10 AM;paulineee; cool;bully;NAG;NULL;NULL;OTH;DFN
+149;11:26:12 AM;julie; fatima parle pas de politique;victim_support;NAG;NULL;NULL;OTH;DFN
+150;11:26:12 AM;Nicolas93; j'etais ban;bully_support;NAG;NULL;NULL;OTH;NULL
+151;11:26:15 AM;theo70; ptddrr si elle veut zemmour c tranquille;conciliator;NAG;NULL;NULL;OTH;OTH
+152;11:26:22 AM;theo70; juste voile ou pas c'est pareil;conciliator;NAG;NULL;NULL;EMP;DFN
+153;11:26:46 AM;julie; same;victim_support;NAG;NULL;NULL;EMP;EMP
+154;11:26:47 AM;Nicolas93; moi j'harcele;bully_support;OAG;victim;OTH;AIN;NULL
+155;11:27:00 AM;Nicolas93; nahahahahahaahh;bully_support;NAG;NULL;NULL;OTH;NULL
+156;11:27:04 AM;paulineee; oula bande de fou;bully;CAG;victim/victim_support/conciliator;OTH;ATK;NULL
+157;11:27:07 AM;Teresa; mdrrr;victim_support;NAG;NULL;NULL;OTH;NULL
+158;11:27:32 AM;paulineee; mais what;bully;NAG;NULL;NULL;OTH;NULL
+159;11:27:32 AM;Nicolas93; t malade pas de ca ici;bully_support;NAG;NULL;NULL;OTH;AIN
+160;11:27:37 AM;pierre54; koran de la meke;bully_support;NAG;NULL;NULL;OTH;NULL
+161;11:27:44 AM;theo70; t'abuses frr;conciliator;NAG;NULL;NULL;CR;AIN
+162;11:27:47 AM;julie; on reste trq;victim_support;NAG;NULL;NULL;CR;AIN
+163;11:27:53 AM;Nicolas93; ou ou haha;bully_support;NAG;NULL;NULL;OTH;NULL
+164;11:28:01 AM;Nicolas93; cela etait le bruit des singes;bully_support;NAG;NULL;NULL;OTH;NULL
+165;11:28:10 AM;paulineee; ptdrrrrrr;bully;NAG;NULL;NULL;OTH;NULL
+171;11:28:54 AM;theo70; mettez vous a sa place wsh;conciliator;NAG;NULL;NULL;EMP;NULL
+172;11:28:58 AM;Nicolas93; le droit de faire la cuisine;bully_support;CAG;victim;OTH;ATK;NULL
+173;11:29:00 AM;theo70; vous etes des chiens;conciliator;OAG;bully/bully_support;NCG;DFN;NULL
+174;11:29:12 AM;FatimaVictime; ils s'en fichent ils veulent juste m'insulter gratuitement et être des racistes de merde;victim;OAG;bully/bully_support;OTH;DFN;NULL
+175;11:29:23 AM;julie; bas pars;victim_support;NAG;NULL;NULL;CR;DFN
+176;11:29:23 AM;theo70; calcule pas;conciliator;NAG;NULL;NULL;CR;DFN
+177;11:29:29 AM;Nicolas93; ^ptdrrrrrrrrrrrr;bully_support;NAG;NULL;NULL;OTH;NULL
+178;11:29:30 AM;paulineee; la societé de nos jours mv....;bully;NAG;NULL;NULL;OTH;NULL
+179;11:29:42 AM;theo70; vsy pauline c bon tu  t'es bien amusé la;conciliator;NAG;NULL;NULL;CR;NULL
+180;11:30:00 AM;paulineee; bien vu;bully;NAG;NULL;NULL;OTH;NULL
+181;11:30:34 AM;theo70; ridicule;conciliator;NAG;NULL;NULL;OTH;OTH
+182;11:30:41 AM;FatimaVictime; oui écoute théo et vire ma photo;victim;NAG;NULL;NULL;OTH;NULL
+183;11:30:47 AM;Nicolas93; aberrant;bully_support;NAG;NULL;NULL;OTH;NULL
+184;11:30:54 AM;FatimaVictime; je partirai pas tant que tu vires pas ma photo pauline;victim;NAG;NULL;NULL;DFN;NULL
+185;11:31:02 AM;paulineee; non;bully;NAG;NULL;NULL;OTH;DFN
+186;11:31:08 AM;Nicolas93; non laisse la photo;bully_support;NAG;NULL;NULL;OTH;DFN
+187;11:31:12 AM;theo70; ca te fait quoi d'enlever la photo ???;conciliator;NAG;NULL;NULL;CR;OTH
+188;11:31:12 AM;paulineee; cv c ta propre classe;bully;NAG;NULL;NULL;GSL;DFN
+189;11:31:40 AM;FatimaVictime; ouais et me faire insulter par ma classe c'est normal ?;victim;NAG;NULL;NULL;CNS;GSL
+190;11:31:41 AM;Nicolas93; allez ciao bisous a tous;bully_support;NAG;NULL;NULL;OTH;NULL
+191;11:31:42 AM;paulineee; bisouss;bully;NAG;NULL;NULL;OTH;NULL
+192;11:31:46 AM;theo70; vivez chacune de votre cote c bon;conciliator;NAG;NULL;NULL;CR;NULL
+193;11:31:48 AM;julie; bisous;victim_support;NAG;NULL;NULL;OTH;NULL
+194;11:31:49 AM;Nicolas93; coeur sur vous;bully_support;NAG;NULL;NULL;OTH;NULL
+195;11:31:53 AM;theo70; bisous mes vies;conciliator;NAG;NULL;NULL;OTH;NULL
+196;11:31:55 AM;julie; jtaime fatima;victim_support;NAG;NULL;NULL;EMP;NULL
+197;11:31:57 AM;Teresa; ciao;victim_support;NAG;NULL;NULL;OTH;NULL
+198;11:32:06 AM;Nicolas93; j'aime une gadji elle s'appelle ciao;bully_support;NAG;NULL;NULL;OTH;NULL
