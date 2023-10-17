@@ -116,36 +116,3 @@ Here are the possible label combinations in the FRHATE annotation.
 If you use this dataset we kindly ask you to include a reference to the paper below. 
 
 XXX
-
-If you would like to refer to the CyberAgressionAdo-v1 dataset, here is the bib entry to the report:
-
-@inproceedings{DBLP:conf/lrec/OllagnierCVB22,
-  author       = {Ana{\"{\i}}s Ollagnier and
-                  Elena Cabrio and
-                  Serena Villata and
-                  Catherine Blaya},
-  editor       = {Nicoletta Calzolari and
-                  Fr{\'{e}}d{\'{e}}ric B{\'{e}}chet and
-                  Philippe Blache and
-                  Khalid Choukri and
-                  Christopher Cieri and
-                  Thierry Declerck and
-                  Sara Goggi and
-                  Hitoshi Isahara and
-                  Bente Maegaard and
-                  Joseph Mariani and
-                  H{\'{e}}l{\`{e}}ne Mazo and
-                  Jan Odijk and
-                  Stelios Piperidis},
-  title        = {CyberAgressionAdo-v1: a Dataset of Annotated Online Aggressions in
-                  French Collected through a Role-playing Game},
-  booktitle    = {Proceedings of the Thirteenth Language Resources and Evaluation Conference,
-                  {LREC} 2022, Marseille, France, 20-25 June 2022},
-  pages        = {867--875},
-  publisher    = {European Language Resources Association},
-  year         = {2022},
-  url          = {https://aclanthology.org/2022.lrec-1.91},
-  timestamp    = {Mon, 10 Oct 2022 16:57:52 +0200},
-  biburl       = {https://dblp.org/rec/conf/lrec/OllagnierCVB22.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
