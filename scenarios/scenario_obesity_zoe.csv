@@ -1,0 +1,103 @@
+ID;TIME;NAME;TEXT;ROLE;HATE;TARGET;VERBAL_ABUSE;INTENTION;CONTEXT;DISAGREEMENT;TYPE_D
+0;[2:39:30 PM]; <Zoé-Victime>; pourquoi vous avez diffusé des photos de moi ?;victim;NAG;NULL;NULL;OTH;NULL;;
+1;[2:39:33 PM]; <Natacha-Soutien-Harceleur>; bande de conne;bully_support;OAG;victim/victim_support;NCG;ATK;NULL;;
+2;[2:39:59 PM]; <Marjorie-Harceleur>; salope ! tu t vu ?;bully;OAG;victim;DNG;ATK;OTH;CONTEXT;SLOPPY
+3;[2:39:59 PM]; <Zoé-Victime>; marjorie et lucie ? je me suis vu de quoi?;victim;NAG;NULL;NULL;OTH;ATK;;
+4;[2:40:24 PM]; <Lucie-Harceleur>; quoi sale grosse;bully;OAG;victim;DNG;ATK;OTH;"VERBAL_ABUSE
+CONTEXT";"AMBIGUITY
+SLOPPY"
+5;[2:40:30 PM]; <Natacha-Soutien-Harceleur>; serieux tu t'es vue pétasse;bully_support;OAG;victim;NCG;ATK;OTH;CONTEXT;SLOPPY
+6;[2:40:32 PM]; <Marjorie-Harceleur>; tu ressemble a mon anus;bully;OAG;victim;DNG;ATK;NULL;;
+7;[2:40:49 PM]; <Zoé-Victime>; je t ai fait quoi pour que tu dises ça;victim;NAG;NULL;NULL;OTH;ATK;;
+8;[2:40:53 PM]; <Natacha-Soutien-Harceleur>; :') :') :') :') ;bully_support;NAG;NULL;NULL;OTH;NULL;;
+9;[2:41:30 PM]; <Lucie-Harceleur>; frère t'es là tu fais la lèche avec les profs;bully;CAG;victim;DNG;ATK;NULL;;
+10;[2:41:55 PM]; <Soan-Soutien-Victime>; arreté bande de conne vous avez cas travaillé ;victim_support;OAG;bully/bully_support;NCG;DFN;ATK;;
+11;[2:41:59 PM]; <Natacha-Soutien-Harceleur>; espece de hassa boulette;bully_support;CAG;victim;NCG;ATK;NULL;VERBAL_ABUSE;SUBJECTIVITY
+12;[2:42:07 PM]; <Marjorie-Harceleur>; t grosse tu bouffe que des macdo;bully;OAG;victim;DNG;ATK;NULL;VERBAL_ABUSE;AMBIGUITY
+13;[2:42:12 PM]; <Soan-Soutien-Victime>; laissé la tranquille elle vous a rien fais;victim_support;NAG;NULL;NULL;DFN;ATK;;
+14;[2:42:19 PM]; <Natacha-Soutien-Harceleur>; toi ta gueule;bully_support;OAG;victim_support;OTH;ATK;DFN;;
+15;[2:42:22 PM]; <Lucie-Harceleur>; et  elle elle a qu'a maigrir;bully;CAG;victim;OTH;ATK;NULL;VERBAL_ABUSE;AMBIGUITY
+16;[2:42:27 PM]; <Natacha-Soutien-Harceleur>; tu commence a m'enerver;bully_support;CAG;victim_support;OTH;ATK;DFN;TARGET;SLOPPY
+17;[2:42:43 PM]; <Zoé-Victime>; tu sais pas ma vie;victim;NAG;NULL;NULL;DFN;ATK;;
+18;[2:42:51 PM]; <Axelle-Soutien-Victime>; vous etes nul en cours et vous vous defoulez sur une meuf bcp mieux que vous ;victim_support;CAG;bully/bully_support;DNG;DFN;NULL;CONTEXT;AMBIGUITY
+19;[2:43:13 PM]; <Zoé-Victime>; merci axelle;victim;NAG;NULL;NULL;EMP;DFN;;
+20;[2:43:14 PM]; <Natacha-Soutien-Harceleur>; ptdrrr alors si une grosse boule;bully_support;OAG;victim;DNG;ATK;DFN;"HATE
+VERBAL_ABUSE";"SUBJECTIVITY
+AMBIGUITY"
+21;[2:43:25 PM]; <Soan-Soutien-Victime>; ben peutetre quelle a des probleme de santé et  alors ta pas a la traite comme sa;victim_support;NAG;NULL;NULL;CR;ATK;INTENTION;AMBIGUITY
+22;[2:43:26 PM]; <Natacha-Soutien-Harceleur>; et mieux que nous crée ma tombe;bully_support;NAG;NULL;NULL;OTH;NULL;CONTEXT;AMBIGUITY
+23;[2:43:27 PM]; <Marjorie-Harceleur>; tt a fait tu as qua maigrir;bully;CAG;victim;OTH;ATK;NULL;VERBAL_ABUSE;AMBIGUITY
+24;[2:43:27 PM]; <Zoé-Victime>; je te roule dessus natacha;victim;CAG;bully_support;THR;DFN;ATK;;
+25;[2:43:29 PM]; <Natacha-Soutien-Harceleur>; svpppp!!!!;bully_support;NAG;NULL;NULL;OTH;NULL;;
+26;[2:43:35 PM]; <Lucie-Harceleur>; euuuuh y a pas mieux que nous en fait;bully;CAG;NULL;DNG;ATK;NULL;;
+27;[2:44:06 PM]; <Zoé-Victime>; pfff vous faites trop les meufs;victim;NAG;NULL;NULL;DFN;ATK;;
+28;[2:44:11 PM]; <Soan-Soutien-Victime>; mais ferme la ta  vu ta gueule;victim_support;OAG;bully;OTH;DFN;ATK;VERBAL_ABUSE;AMBIGUITY
+29;[2:44:14 PM]; <Marjorie-Harceleur>; tufait ta victime tu sais pas te defendre seul ;bully;CAG;victim;DNG;ATK;DFN;;
+30;[2:44:16 PM]; <Lucie-Harceleur>; natacha elle va mourir si tu lui roulle dessus t'as t'es 3 ptit klebs;bully;CAG;victim;DNG;ATK;DFN;;
+31;[2:44:55 PM]; <Natacha-Soutien-Harceleur>; :') :') :') :') :') ;bully_support;NAG;NULL;NULL;OTH;NULL;;
+32;[2:45:01 PM]; <Soan-Soutien-Victime>; Ne les écoutes pas Zoé,  le physique ne compte pas tu es très bien comme tu es. Le principale c'est que tu te sentes bien dans ton coeur;victim_support;NAG;NULL;NULL;EMP;NULL;CONTEXT;AMBIGUITY
+33;[2:45:02 PM]; <Natacha-Soutien-Harceleur>; sa y est jsuis morte deja;bully_support;NAG;NULL;NULL;OTH;NULL;;
+34;[2:45:30 PM]; <Zoé-Victime>; merci de me dire ça;victim;NAG;NULL;NULL;EMP;EMP;;
+35;[2:45:30 PM]; <Marjorie-Harceleur>; tant mieu;bully;NAG;NULL;NULL;OTH;NULL;"INTENTION
+CONTEXT";"SLOPPY
+SLOPPY"
+36;[2:45:34 PM]; <Soan-Soutien-Victime>; Elles sont juste immature de faire ca,  preuve que c'est des gamines;victim_support;CAG;bully/bully_support;DNG;DFN;NULL;HATE;SUBJECTIVITY
+37;[2:45:49 PM]; <Marjorie-Harceleur>; tg elisa;bully;OAG;victim;OTH;NULL;NULL;"INTENTION
+CONTEXT";"MISSING
+MISSING"
+38;[2:45:54 PM]; <Soan-Soutien-Victime>; zoé tu vaux mieux que sa ;victim_support;NAG;NULL;NULL;EMP;NULL;CONTEXT;AMBIGUITY
+39;[2:46:00 PM]; <Natacha-Soutien-Harceleur>; c elle qui est venue nous dm donc on lui dit ce quon pense merdeee;bully_support;OAG;victim;BLM;GSL;NULL;"HATE
+INTENTION";"AMBIGUITY
+AMBIGUITY"
+40;[2:46:15 PM]; <Zoé-Victime>; bah normal vous avez envoyé des photos a tout le monde je prends pas des photos de vous dans les vestiaires moi;victim;NAG;NULL;NULL;CNS;OTH;;
+41;[2:46:38 PM]; <Soan-Soutien-Victime>; elle au moin  elle respect les gens ;victim_support;NAG;NULL;NULL;DFN;NULL;"INTENTION
+CONTEXT";"AMBIGUITY
+AMBIGUITY"
+42;[2:46:45 PM]; <Lucie-Harceleur>; ouais maint tkt on te vois pas derrire tes bourllet;bully;CAG;victim;DNG;ATK;CNS;VERBAL_ABUSE;SLOPPY
+43;[2:46:48 PM]; <Soan-Soutien-Victime>; Tu as le droit de porter plainte tu sais;victim_support;NAG;NULL;NULL;EMP;NULL;CONTEXT;AMBIGUITY
+44;[2:46:52 PM]; <Marjorie-Harceleur>; beh oui elle est venu nous parler elle cherche la merde cette grosse ;bully;OAG;victim;BLM;AIN;GSL;INTENTION;SLOPPY
+45;[2:46:54 PM]; <Soan-Soutien-Victime>; contrairrement a vous salle conne;victim_support;OAG;bully/bully_support;NCG;EMP;EMP;INTENTION;AMBIGUITY
+46;[2:47:01 PM]; <Axelle-Soutien-Victime>; vous prenez des photos des gens sans leurs consentement vous êtes riducule ;victim_support;CAG;bully/bully_support;OTH;DFN;NULL;VERBAL_ABUSE;SUBJECTIVITY
+47;[2:47:02 PM]; <Marjorie-Harceleur>; cava bouboule ?;bully;OAG;victim;NCG;ATK;NULL;"HATE
+CONTEXT";"AMBIGUITY
+SLOPPY"
+48;[2:47:06 PM]; <Natacha-Soutien-Harceleur>; beh ta qua arreter de faire des photos sexy qui sont pas fait pour toi;bully_support;CAG;victim;BLM;GSL;CNS;"VERBAL_ABUSE
+INTENTION";"SUBJECTIVITY
+AMBIGUITY"
+49;[2:47:08 PM]; <Soan-Soutien-Victime>; et toi ta vu ta gueule;victim_support;OAG;bully_support;DNG;DFN;GSL;;
+50;[2:47:17 PM]; <Lucie-Harceleur>; :') :') :') :') sexyyyy tout le contraire de zoe;bully;CAG;victim;DNG;ATK;NULL;CONTEXT;AMBIGUITY
+51;[2:47:45 PM]; <Soan-Soutien-Victime>; mongolienne;victim_support;OAG;bully;NCG;DFN;ATK;HATE;AMBIGUITY
+52;[2:47:47 PM]; <Marjorie-Harceleur>; oui je lau vu ne tkt pas;bully;NAG;NULL;NULL;OTH;DFN;CONTEXT;SLOPPY
+53;[2:47:55 PM]; <Zoé-Victime>; j'ai des seins vous êtes des grosses jalouse vous avez rien vous;victim;NAG;NULL;NULL;DFN;NULL;;
+54;[2:48:16 PM]; <Lucie-Harceleur>; ah je croyais que s'etait des bourllets;bully;CAG;victim;DNG;ATK;DFN;;
+55;[2:48:19 PM]; <Marjorie-Harceleur>; je suis 10 fois mieu foutu que elle bouffonne;bully;OAG;victim;NCG;ATK;DFN;HATE;SLOPPY
+56;[2:48:20 PM]; <Soan-Soutien-Victime>; mais putin merde a la fin laissé la tranquille elle vous a rien fais;victim_support;NAG;NULL;NULL;DFN;ATK;;
+57;[2:48:39 PM]; <Axelle-Soutien-Victime>; vous avez pas de forme vous bande jalouse;victim_support;CAG;bully/bully_support;DNG;DFN;ATK;;
+58;[2:48:44 PM]; <Zoé-Victime>; c'est toi le bourlet lucie;victim;CAG;bully;NCG;DFN;ATK;"INTENTION
+CONTEXT";"SLOPPY
+SLOPPY"
+59;[2:48:49 PM]; <Soan-Soutien-Victime>; elle au moin elle est pas conne comme vous bande de poufiasse;victim_support;OAG;bully/bully_support;OTH;DFN;ATK;"HATE
+VERBAL_ABUSE";"SLOPPY
+SLOPPY"
+60;[2:48:50 PM]; <Natacha-Soutien-Harceleur>; jte fou un coup avec mes seins tu verras;bully_support;CAG;victim;THR;ATK;DFN;;
+61;[2:48:50 PM]; <Marjorie-Harceleur>; va retourner manger macdo avec tes 3 menu signature;bully;CAG;victim;DNG;ATK;NULL;;
+62;[2:49:02 PM]; <Lucie-Harceleur>; ma pauvre moi je casse pas la balance ;bully;CAG;victim;DNG;ATK;NULL;;
+63;[2:49:19 PM]; <Marjorie-Harceleur>; cest pas des forme c de la graisse;bully;CAG;victim;DNG;ATK;DFN;;
+64;[2:49:30 PM]; <Soan-Soutien-Victime>; Mais en tout cas tu casses autre chose LUcie...;victim_support;CAG;bully;OTH;DFN;ATK;HATE;MISSING
+65;[2:49:31 PM]; <Lucie-Harceleur>; c'est clair;bully;NAG;NULL;NULL;OTH;DFN;;
+66;[2:49:33 PM]; <Natacha-Soutien-Harceleur>; ayaaaa sa tire a balle reel iciiiii;bully_support;NAG;NULL;NULL;OTH;NULL;;
+67;[2:49:42 PM]; <Zoé-Victime>; je prefere casser la balance ;victim;NAG;NULL;NULL;DFN;ATK;;
+68;[2:49:44 PM]; <Soan-Soutien-Victime>; ferme la marjorie t'es  qu'une poufiasse sans cervelle;victim_support;OAG;bully;DNG;DFN;ATK;VERBAL_ABUSE;AMBIGUITY
+69;[2:49:46 PM]; <Axelle-Soutien-Victime>; bah au moins elle est pas plate comme vous bande de conne;victim_support;OAG;bully/bully_support;DNG;DFN;ATK;;
+70;[2:49:59 PM]; <Lucie-Harceleur>; ah ben ca elle a que de la graisse en meme temps ;bully;CAG;victim;DNG;ATK;DFN;;
+71;[2:50:15 PM]; <Natacha-Soutien-Harceleur>; ON EST TRES BIEN FORMER;bully_support;NAG;NULL;NULL;OTH;DFN;;
+72;[2:50:25 PM]; <Lucie-Harceleur>; ca fait des montagne de cellulite;bully;CAG;victim;DNG;ATK;DFN;;
+73;[2:50:29 PM]; <Marjorie-Harceleur>; toi tu ressemble a un anus perimé ;bully;OAG;victim_support;DNG;ATK;DFN;;
+74;[2:50:34 PM]; <Natacha-Soutien-Harceleur>; C JUSTE ON EST PAS GROSEE PETASSE;bully_support;OAG;victim_support;NCG;ATK;DFN;;
+75;[2:50:39 PM]; <Zoé-Victime>; mon physique est peut etre pas parfait mais au moins je suis pas une connasse comme vous;victim;OAG;bully/bully_support;NCG;DFN;ATK;;
+76;[2:50:50 PM]; <Soan-Soutien-Victime>; bien ditt C'est beaucoup plus beau une fille avec des formes et des kilos en trop qu'une personne plate qui ressemble a une planche a pain bande de pute;victim_support;OAG;bully/bully_support;DNG;EMP;DFN;;
+77;[2:51:09 PM]; <Lucie-Harceleur>; je suis fiere d'etre une connassse;bully;NAG;NULL;NULL;OTH;NULL;HATE;SLOPPY
+78;[2:51:14 PM]; <Soan-Soutien-Victime>; totalement raison Zoé;victim_support;NAG;NULL;NULL;EMP;DFN;;
+79;[2:51:16 PM]; <Axelle-Soutien-Victime>; au moins elle reussira sa vie plutot qu'etre conne comme vous;victim_support;OAG;bully/bully_support;DNG;DFN;NULL;HATE;SLOPPY
+80;[2:51:24 PM]; <Soan-Soutien-Victime>; ben  tu fera pas long feu dans ta viie;victim_support;CAG;bully;DNG;DFN;NULL;;
+81;[2:51:33 PM]; <Zoé-Victime>; ouais elles vont finir à faire la manche avec leur cerveau;victim;CAG;bully/bully_support;DNG;DFN;NULL;;
