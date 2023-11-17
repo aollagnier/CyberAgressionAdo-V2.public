@@ -64,7 +64,7 @@ ID,TIME,NAME,TEXT,ROLE,HATE,TARGET,VERBAL_ABUSE,INTENTION,CONTEXT
 62,[2019-06-13 14:19:41], <Diana>, je suis pas potes avec des aguicheuse pareil ! je voudrait pas qu'on me pennes attentionner mon copain,bully_support,OAG,victim,NCG,ATK,CR
 63,[2019-06-13 14:19:49], <Amos_soutienAdri>, tais-toi ,bully_support,OAG,victim,OTH,ATK,OTH
 64,[2019-06-13 14:19:50], <Adrien_harceleur>, apprend a lire avant de me parler,bully,CAG,victim,DNG,ATK,DFN
-65,[2019-06-13 14:20:08], <Diana>, attentionnellement*,bully_support,NAG,bully,OTH,OTH,NULL
+65,[2019-06-13 14:20:08], <Diana>, attentionnellement*,bully_support,NAG,NULL,NULL,OTH,NULL
 66,[2019-06-13 14:20:09], <Silvia_Victime>, je pique les mecs moi apparement,victim,OAG,bully,OTH,DFN,ATK
 67,[2019-06-13 14:20:14], <Silvia_Victime>, j'ai pas besoin de savoir lire,victim,OAG,NULL,NULL,DFN,ATK
 68,[2019-06-13 14:20:17], <Diana>, ouais ,bully_support,NAG,NULL,NULL,OTH,DFN
