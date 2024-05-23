@@ -115,4 +115,24 @@ Here are the possible label combinations in the FRHATE annotation.
 
 If you use this dataset we kindly ask you to include a reference to the paper below. 
 
-XXX
+@inproceedings{DBLP:conf/coling/Ollagnier24,
+  author       = {Ana{\"{\i}}s Ollagnier},
+  editor       = {Nicoletta Calzolari and
+                  Min{-}Yen Kan and
+                  V{\'{e}}ronique Hoste and
+                  Alessandro Lenci and
+                  Sakriani Sakti and
+                  Nianwen Xue},
+  title        = {CyberAgressionAdo-v2: Leveraging Pragmatic-Level Information to Decipher
+                  Online Hate in French Multiparty Chats},
+  booktitle    = {Proceedings of the 2024 Joint International Conference on Computational
+                  Linguistics, Language Resources and Evaluation, {LREC/COLING} 2024,
+                  20-25 May, 2024, Torino, Italy},
+  pages        = {4287--4298},
+  publisher    = {{ELRA} and {ICCL}},
+  year         = {2024},
+  url          = {https://aclanthology.org/2024.lrec-main.383},
+  timestamp    = {Wed, 22 May 2024 17:29:48 +0200},
+  biburl       = {https://dblp.org/rec/conf/coling/Ollagnier24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
