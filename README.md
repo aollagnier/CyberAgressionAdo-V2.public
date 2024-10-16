@@ -13,9 +13,9 @@ This is the README file for the CyberAgressionAdo-v2.0 dataset
 
 CyberAgressionAdo-v2.0 contains 19 scenarios including 6 about ethnicity, 4 about homophobia, 6 about obesity and 2 about religion. Messages are annotated using a fine-grained hierarchical annotation scheme.
 
-The dataset was annotated by 2 expert annotators, with background in computational linguistics. The gold labels were assigned taking the agreement of the two annotators into consideration. 
+The dataset was annotated by 3 expert annotators, with background in computational linguistics. The gold labels were assigned taking the agreement of the three annotators into consideration. 
 
-Each conversation contains up to 6 labels each corresponding to one of the following levels:
+Each conversation contains up to 7 labels each corresponding to one of the following levels:
 
 Role: This label corresponds to the type of active roles involved in aggressions. It helps categorize comments based on the roles individuals play in online interactions.
 
@@ -29,11 +29,13 @@ Intention: This label is employed to understand the purpose or message conveyed 
 
 Context: This label is used to establish the context within which these messages are situated, particularly as responses in a conversation. It provides insights into the surrounding circumstances and helps in better understanding the comments.
 
+Sentiment: This label is used to establish the emotional tone of a message, categorizing it as positive, negative, or neutral based on the feelings or attitudes expressed.
+
 2) FORMAT
 
 Instances are included in CSV format as follows:
 
-ID	TIME    NAME    TEXT    ROLE    TARGET  HATE    VERBAL_ABUSE    INTENTION   CONTEXT 
+ID	TIME    NAME    TEXT    ROLE    TARGET  HATE    VERBAL_ABUSE    INTENTION   CONTEXT   SENTIMENT
 
 Whenever a label is not given, a value NULL is inserted (e.g. INSTANCE	NOT	NULL	NULL)
 
@@ -105,11 +107,19 @@ Messages are labeled whether they are aggressive or not.
 
 Messages are labeled whether they are aggressive or not.
 
+(G) Sentiment :  determine the emotional tone behind a body of text. 
+
+- (POS) Positive Sentiment - express joy, love, support, or appreciation in a non-aggressive tone, promoting respect, kindness, and encouragement, often including casual or humorous comments without intent to offend.
+- (NEG) Negative Sentiment - express emotions like anger, frustration, or disapproval, often containing aggression or hostility, including insulting or offensive language, and can promote violence, mockery, or exclusion without necessarily using profanity.
+- (NEU) Neutral Sentiment - convey facts, objective statements, or inquiries without expressing strong emotions, and does not reveal the author's emotional state.
+
+Messages are labeled whether they are aggressive or not.
+
 Here are the possible label combinations in the FRHATE annotation.
 
--	NAG NULL NULL DFN ATK
--	OAG victim_support THR ATK EMP
--	CAG victim BLM GSL NULL
+-	NAG NULL NULL DFN ATK NEU
+-	OAG victim_support THR ATK EMP POS
+-	CAG victim BLM GSL NULL NEG
 
 4) CITING THE DATASET
 
